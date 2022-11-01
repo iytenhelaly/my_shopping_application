@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Shopping Application</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="register">Register</string>
+    <string name="string_update_your_data">Update Your Data</string>
+    <string name="markyourlocation">MarkYourLocation</string>
+    <string name="update_your_data">Update Your Data</string>
+    <string name="mark_your_location">Mark Your Location</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="update">Update</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
